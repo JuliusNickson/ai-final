@@ -16,16 +16,16 @@ This manual explains how to sign up for Leonardo AI and use its image generation
 
 ## Step 1: Create a Leonardo AI account
 1. Open your browser and go to https://app.leonardo.ai.
-2. Click the Sign Up button.
+2. Click the Sign Up or Create Account button.
 3. Choose your preferred sign-up method, such as email, Google, or GitHub.
-4. Complete the verification steps and log in to your account.
+4. Fill in the required details, verify your email if needed, and log in to your account.
 
-![Leonardo AI sign-up screen](screenshots/Screenshot%20From%202026-07-07%2017-35-46.png)
+![Leonardo AI account creation screen](screenshots/Screenshot%20From%202026-07-07%2017-35-46.png)
 
 ## Step 2: Open the image generation workspace
-1. After logging in, go to the Image Generation section.
-2. Select Create a new image or start a new generation project.
-3. Make sure you are in the image editing/generation area before continuing.
+1. After logging in, open the Image Generation section.
+2. Start a new image creation project.
+3. Make sure you are in the image editing or generation area before continuing.
 
 ![Leonardo AI image generation workspace](screenshots/Screenshot%20From%202026-07-07%2017-35-52.png)
 
